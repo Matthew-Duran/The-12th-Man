@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/frontend (m)/The-12-man-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend/The-12-man-frontend" vcs="Git" />
   </component>
 </project>
