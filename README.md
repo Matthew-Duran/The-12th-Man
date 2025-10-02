@@ -56,4 +56,8 @@ This comprehensive platform was developed to transform Premier League data into 
 - BeautifulSoup and cloudscraper for web scraping automation
 
 
-<img width="1175" height="705" alt="Screenshot 2025-09-18 at 9 51 59 PM" src="https://github.com/user-attachments/assets/5e89441b-9127-4d00-8600-5bde996a601a" />
+
+<img width="1205" height="810" alt="The 12th man Thumbnail" src="https://github.com/user-attachments/assets/b522e29d-8c6d-4e7a-9b69-82d3597a0473" />
+
+
+
